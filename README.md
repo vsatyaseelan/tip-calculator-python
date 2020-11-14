@@ -1,3 +1,3 @@
-# tipcalculator
-Project 2 - Tip Calculator<br>
-100 Days of Python Projects
+# tip-calculator-python
+Day 2 - Tip Calculator by Python.<br>
+100 Days of Python Projects.
